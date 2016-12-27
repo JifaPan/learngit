@@ -1,1 +1,2 @@
-goodafternoon,gif!
+hello,gif!
+我看看是不是和缓冲区进行对比。
